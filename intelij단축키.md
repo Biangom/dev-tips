@@ -1,5 +1,5 @@
 - 전체 소스 내에서 검색
-  _ Ctrl + Shift + F
+  - Ctrl + Shift + F
   
 - 프로젝트 내에 파일 찾기
   - <project>누르고 shift 2번
