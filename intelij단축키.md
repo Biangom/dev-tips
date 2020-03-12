@@ -1,3 +1,6 @@
+- 현재 줄 이동
+  - Shift + Ctrl + 위방향키 or 
+
 - 전체 소스 내에서 검색
   - Ctrl + Shift + F
   
