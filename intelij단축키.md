@@ -35,3 +35,26 @@
   - Ctrl + Alt + N
   - ex) result = ...; return result; -> return result;
   
+- 쉽게 메서드 만들어 버리기
+  - 블록잡고 Ctrl + Alt + M
+
+- 현재 메서드에서 함수 인자 쉽게 만들기
+  - 원하는 상수 값에다가 Ctrl + Alt + P
+  
+- 파일 검색 기능
+  - shift 2번 누르기
+  
+- 최근에 조회했던 resource 파일 검색 가능
+  - Ctrl + E
+  
+- 멀티라인 선택하기
+  - Alt + Shift + Insert하면 모드가 바뀜
+  - 그 상태에서 shift 누르고 드래그
+  
+- Upper 만들기.
+  - Ctrl + Shift + U
+  
+- 구현부로 이동
+  - Ctrl + 마우스 왼쪽 클릭
+  - 방금 전으로 되돌림 Ctrl + Alt + <-(방향키 왼쪽)
+  
