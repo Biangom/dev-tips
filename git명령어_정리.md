@@ -4,3 +4,5 @@
 - 가장 최근의 브랜치로 이동 후 unstaged, staged된 파일 다 삭제하고 싶을 때
   - git reset HEAD
   - git checkout .   (git checkout [파일이름] 하면 그 파일 변경사항 없어짐)
+- 다른 commit 불러오기 (cherry-pick)
+  - git cherry-pick [커밋 ID]
