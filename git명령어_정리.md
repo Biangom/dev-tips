@@ -65,5 +65,7 @@
 
 참고  
 [https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EB%82%B4%EB%B6%80-Git-Refs](https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EB%82%B4%EB%B6%80-Git-Refs)
+
+
 staged = index에 등록
 unstage = index에 등록되어있지 않음.
