@@ -6,3 +6,6 @@
   - git checkout .   (git checkout [파일이름] 하면 그 파일 변경사항 없어짐)
 - 다른 commit 불러오기 (cherry-pick)
   - git cherry-pick [커밋 ID]
+
+staged = index에 등록
+unstage = index에 등록되어있지 않음.
