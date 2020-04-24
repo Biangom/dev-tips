@@ -62,9 +62,17 @@
 -   해당 파일을 라인 by 라인으로 어떤 변경사항이 있었는지 커밋ID로 볼 수 있게함  
     `git blame [해당 파일명 (경로까지)]`
     
+-   현재커밋과 이전커밋의 변경된 파일만 보기 (내용X)
+    `git diff --name-status [나중커밋] [새로운커밋]`
+    
+-   현재커밋과 이전커밋의 변경된 파일 추출하기
+    `git archive -o test.zip HEAD $(git diff --name-only HEAD^)`
+    
 
 참고  
 [https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EB%82%B4%EB%B6%80-Git-Refs](https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EB%82%B4%EB%B6%80-Git-Refs)
+
+https://lovemewithoutall.github.io/it/git-diff-name-status/
 
 
 staged = index에 등록
