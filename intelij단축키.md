@@ -60,3 +60,7 @@
 
 - 감싼 부분을 if, try/catch로 만들고 싶음.
 	- 감싼다음 ctrl + alt + T 
+	
+### 찾기
+- 모든 파일에서 특정 문자열 찾기
+  - Ctrl + Shift + F
